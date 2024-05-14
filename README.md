@@ -1,5 +1,9 @@
 # Bienvenue sur ✨ LaFerme ✨
 
+Le but de se projet est de récupérer et d'afficher la température et l'humidité en temps réel à l'aide d'un capteur Arduino Nano 33.
+Nous avons fait un graphique evolutif, ainsi qu'un tableau csv et d'un dashboard streamlit. 
+De plus, un seuil de température et d'humidité a été mis en place, en dehors duquel s'affiche une pop-up d'alerte disant qu'il fait trop chaud/froid ou sec/humide.
+
 Sur ce repository, vous trouverez :
 
   - Un dossier, avec le sketch récupérant la température et l'humidité à l'aide du capteur Arduino
